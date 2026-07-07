@@ -16,3 +16,8 @@ This repository contains the code, data and figures produced during the Geodesy 
 - Salma Makuti
 - Handsome Nyoni
 - Andenet Gedamu
+
+### Tools
+
+The tool is simple to use and can be found in the Summer School repository folder:  
+[https://drive.google.com/drive/folders/1egQHig5AYdWw9bhVlPC_S8HdmDqPUKoA](https://drive.google.com/drive/folders/1egQHig5AYdWw9bhVlPC_S8HdmDqPUKoA)
